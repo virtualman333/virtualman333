@@ -7,3 +7,5 @@
 🧑‍💻 技术兵器库：Vue3、React、TypeScript、NestJS、NodeJS、TailwindCSS  
 🌱 成长姿态：以持续学习为燃料，以技术分享为星光，活跃于开源社区  
 期待与每一个热爱技术的你，并肩打造真正“了不起”的作品！✨
+
+个人博客：[https://virtualman.top](https://virtualman.top)
